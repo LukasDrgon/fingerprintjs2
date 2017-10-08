@@ -2,6 +2,7 @@
 
 [![](https://travis-ci.org/Valve/fingerprintjs2.svg?branch=master)](https://travis-ci.org/Valve/fingerprintjs2)
 [![](https://badges.gitter.im/Valve/fingerprintjs2.svg)](https://gitter.im/Valve/fingerprintjs2)
+[![](https://data.jsdelivr.com/v1/package/npm/fingerprintjs2/badge?style=rounded)](https://www.jsdelivr.com/package/npm/fingerprintjs2)
 
 
 Original fingerprintjs library was developed in 2012, it's now impossible to evolve it
